@@ -7,7 +7,7 @@ Rediska configuration
 --------
 
 You should use 
-(http://rediska.geometria-lab.net "Rediska") class to work with redis. It should be configured before session configuration:
+[Rediska](http://rediska.geometria-lab.net "Rediska") class to work with redis. It should be configured before session configuration:
 
 ```php
 $options = array(
